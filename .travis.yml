@@ -28,6 +28,7 @@ addons:
     # For supporting C++11
     - gcc-4.8
     - g++-4.8
+    - gtk2.0
     sources:
       # For g++-4.8 (needed for C++11 support)
       - ubuntu-toolchain-r-test
